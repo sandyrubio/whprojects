@@ -1,0 +1,46 @@
+header{
+    display: flex;
+}
+
+img{
+    width: 200px;
+
+}
+body {
+    background-color: red; 
+    color: yellow;
+    font-family: cursive;
+}
+
+nav {
+    width: 100%;
+    border:10px dashed green;
+}
+
+ul {
+    background-color: blue;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    // flex-direction: column-reverse;
+}
+
+article {
+    width: 75%;
+    // float: left;
+    background-color: green;
+}
+
+aside {
+    width: 25%;
+    // float: right;
+    background-color: white;
+}
+
+section{
+    width: 100%;
+    background-color: orchid;
+}
+
