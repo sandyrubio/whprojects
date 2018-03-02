@@ -1,0 +1,41 @@
+html {
+  background-color: pink;
+}
+
+p {
+  color: slateblue;
+}
+
+span {
+  color: purple;
+}
+
+div span {
+  color: orange;
+}
+
+p.banana {
+  color: yellow;
+}
+
+p.spoiled {
+  color: blueviolet;
+}
+
+.watermelon {
+  color: green;
+  font-size: 30px;
+}
+
+.kiwi {
+  color: white;
+}
+
+#apple {
+  color: red;
+}
+
+#kiwi {
+  color: grey;
+}
+/*# sourceMappingURL=style.css.map */
