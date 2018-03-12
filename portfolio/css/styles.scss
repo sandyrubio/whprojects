@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    
+}
+
+// .resumepic {
+//     background-image: cover;
+//     background-repeat: no-repeat;
+//     width: 100%;
+// }
+
+// .secondImage {
+//     width: 200px;
+//     display: block;
+//     position: absolute;
+//     top: 200px;
+//     left: 200px;
+// }
+
+// .main-header{
+//     display: flex;
+// }
+.main-header {
+    width: 100%;
+    background-color: white;
+    height: 500px;
+    font-size: 30px;
+}
+.about-me {
+    width: 100%;
+    background-color: white;
+    height: 1000px;
+    font-size: 30px;
+}
+.contact {
+    width: 100%;
+    background-color: white;
+    height: 500px;
+    font-size: 30px;
+    
+}
+h1 {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+    padding-right:3px;
+    padding-left: 3px;
+}
+
+
+
