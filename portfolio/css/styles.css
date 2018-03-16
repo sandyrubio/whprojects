@@ -5,30 +5,66 @@ body {
 .main-header {
   width: 100%;
   background-color: white;
-  height: 500px;
-  font-size: 30px;
+  height: 350px;
+  background-color: #d19d94;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
 }
 
 .about-me {
   width: 100%;
-  background-color: white;
-  height: 1000px;
-  font-size: 30px;
+  background-color: #d19d94;
 }
 
 .contact {
   width: 100%;
-  background-color: white;
-  height: 500px;
-  font-size: 30px;
+  background-color: #d19d94;
 }
 
 h1 {
   margin: 0;
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
-  text-decoration: underline;
   padding-right: 3px;
   padding-left: 3px;
+}
+
+.profilepicholder .profilepic {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  image-orientation: flip;
+}
+
+.about-me-header {
+  background-color: blanchedalmond;
+  text-decoration: underline;
+}
+
+.bioheader {
+  text-align: center;
+  background-color: blanchedalmond;
+  text-decoration: underline;
+}
+
+.bioheader h2 {
+  margin-top: 0;
+}
+
+.contact-header {
+  text-align: center;
+  background-color: blanchedalmond;
+  text-decoration: underline;
+}
+
+.contact-header h2 {
+  margin-top: 0;
+}
+
+html {
+  background-color: #d19d94;
 }
 /*# sourceMappingURL=styles.css.map */
